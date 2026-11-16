@@ -2,7 +2,7 @@
 
 BMO is a personal desktop and web companion for talking through plans, keeping a calendar, and saving information for later. It is a personal project for someone who wants to manage their own day by voice or keyboard and still be able to inspect and edit the records behind a reply.
 
-(images/conversation.png)
+![BMO calendar, day briefing page](images/conversation.png)
 
 
 
@@ -14,7 +14,7 @@ BMO is a personal desktop and web companion for talking through plans, keeping a
 - **Local and account modes.** The local desktop mode keeps records on the device and supports export and import. It uses installed OS voices for speech output and needs a supported provider key for model-backed chat. Signed-in accounts use the shared service with account-scoped records and provider settings.
 - **Personal integrations.** The Developer edition can read Gmail and work with synced WhatsApp conversations. Sending a WhatsApp message requires confirmation of the exact recipient and text.
 
-(images/schedule.png)
+![BMO](images/schedule.png)
 
 *The desktop schedule with fictional events. The calendar and briefing use the scheduling code from the app.*
 
